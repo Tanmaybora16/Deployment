@@ -316,7 +316,7 @@ Features are organized in a **tab-based interface**:
 ### **Prerequisites**
 
 1. **Node.js**: Version 18 or higher (LTS recommended)
-   - Install via [nvm](https://github.com/nvm-sh/nvm) or official installer
+   - Install via [nvm](https://github.com/nvm-sh/nvm) or [official installer](https://nodejs.org/dist/v24.11.1/node-v24.11.1-x64.msi)
 
 2. **npm or yarn**: Package manager (included with Node.js)
 
@@ -453,3 +453,4 @@ This is a comprehensive full-stack expense tracker application built with modern
 - **Architecture**: Component-based, type-safe, responsive, and scalable
 
 The codebase follows best practices with clear separation of concerns: pages handle routing and state, components handle UI presentation, hooks manage reusable logic, and Supabase handles all backend operations including authentication. This architecture ensures maintainability and scalability as the application grows.
+
